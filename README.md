@@ -14,6 +14,6 @@ This respository contains my internship tasks and java projects.
 - weather data fetching using API
 - client-server mutlitherading chat application
 ## How to Run
-1.open project in VS Code
-2.compile:javac filename.java
-3.Run:java filename
+1. open project in VS Code
+2. compile:javac filename.java
+3. Run:java filename
