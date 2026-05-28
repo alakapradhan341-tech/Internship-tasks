@@ -1,0 +1,3 @@
+Welcome to CODTECH Internship.
+Java File Handling Example.
+This line is added later.
