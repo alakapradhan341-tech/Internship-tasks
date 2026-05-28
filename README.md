@@ -1,9 +1,9 @@
-#java Internship Project
+# java Internship Project
 This respository contains my internship tasks and java projects.
 ## Files Included
--ChatServer.java
--ChatClient.java
--ClientHandler.java
+- ChatServer.java
+- ChatClient.java
+- ClientHandler.java
 - FileHandling.java
 - RecommendationEngine.java
 - WeatherApp.java
